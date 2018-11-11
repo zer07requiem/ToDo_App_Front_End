@@ -1,0 +1,14 @@
+h1 {color:white;
+    font-family:Comic sans ms;}
+p {color:white;
+    font-weight:Bold;}
+body {background-color: black;}
+li {color:white;}
+img {width:320px;}
+.span1 {color:yellow;
+    font-weight:bold;}
+.span2 {color:Orange;
+    font-weight:bold;}
+    #submit {color:Green;
+        border-color:Red;
+        border-width:3px;}
