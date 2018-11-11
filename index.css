@@ -1,14 +1,37 @@
-h1 {color:white;
-    font-family:Comic sans ms;}
-p {color:white;
-    font-weight:Bold;}
+h1 {
+    color:white;
+    font-family:Comic sans ms;
+}
+p {
+    color:white;
+    font-weight:Bold;
+}
 body {background-color: black;}
 li {color:white;}
 img {width:320px;}
-.span1 {color:yellow;
-    font-weight:bold;}
-.span2 {color:Orange;
-    font-weight:bold;}
-    #submit {color:Green;
-        border-color:Red;
-        border-width:3px;}
+.span1 {
+    color:yellow;
+    font-weight:bold
+}
+.span2 {
+    color:Orange;
+    font-weight:bold;
+}
+#submit {
+    font-size:20px;
+    text-align:center;
+    color:Green;
+    outline:none;
+    border-style:none;
+    padding:10px;
+    border-radius:9px;
+    box-shadow:2px 2px 1px #90A4AE;
+    display:block;
+    background-color:White;
+    margin-top:10px;
+    border-color:Red;
+    border-width:1px;
+}
+#submit:active {box-shadow:1px 1px 1px 2px red;
+    background-color:black;
+}
