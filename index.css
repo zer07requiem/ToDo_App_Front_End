@@ -1,27 +1,29 @@
 h1 {
-    color:white;
+    color:#008080;
     font-family:Comic sans ms;
     }
 p {
-    color:white;
+    color: #008080;
     font-family:Arial;
     font-weight:Bold;
     }
-body {background-color: black;}
-li {color:white;}
+body {background-color: #F5F5DC;}
+li {color:Black;}
 img {width:320px;}
+
+#day {color:#008080;}
 .span1 {
     color:red;
     font-weight:bold
     }
 .span2 {
-    color:Orange;
+    color:#8d2cf9;
     font-weight:bold;
     }
 #submit {
     font-size:20px;
     text-align:center;
-    color:Green;
+    color:#40e0d0;
     outline:none;
     border-style:none;
     padding:10px;
@@ -36,11 +38,12 @@ img {width:320px;}
     }
 #submit:active {
     box-shadow:1px 1px 1px 2px red;
-    background-color:orange;
     }
 .time {
-    background-color:White;
+    background-color:#e6e6e6;
     border-radius:12px;
     padding:3px;
-    color:black;
+    color:#8d2cf9;
     }
+    
+    
